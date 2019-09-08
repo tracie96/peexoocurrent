@@ -5,8 +5,7 @@
 
     </canvas>
     <div class="hero"><span class="">
-      <h3 style="color:white !important; font-size: 1.95rem">Turn your passion into a real business</h3>
-        <a style="color: white !important;" class="btn btn-p btn-rounded">Join now!</a>
+
         <!--<div>-->
             <!--<button type="btn btn-peexoo btn-p btn-rounded">Join now!</button>-->
         <!--</div>-->

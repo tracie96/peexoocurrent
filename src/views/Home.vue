@@ -17,7 +17,7 @@
 
       <p class="p-slider">
         <span id="title-banner" class="text_1">
-          KELECHI AMADI OBI
+         AFROSHOTS
         </span>
         <!-- <span id="title-banner" class="text_1">
          LANRE OLADEJO
@@ -29,13 +29,13 @@
         <div class="row">
           <div class="col-lg-10 mx-auto">
             <div class="agency-section-title text-center section-title-style2">
-              <h2 class="main-title ">IGNITING PHOTOGRAPHY</h2>
-              <p style="padding-bottom:25px">
+              <h2 class="main-title pt-1">Igniting Photography</h2>
+              <p style="padding-bottom:25px pt-5">
               Relive your best memories and highlight meaningful moments through the lens of world-class photographers. It’s quick and easy to book now.
 
               </p>
 
-              <button class="btn btn-peexoo btn-p btn-rounded ">Explore Photos</button>
+              <button class="btn btn-peexoo btn-p btn-rounded" style="margin-top:-1%;">Explore Photos</p></button>
             </div>
           </div>
         </div><!-- .row end -->
@@ -63,36 +63,36 @@
             </div>
             <div class="benefits-row benefits-card">
               <div class="col-lg-4 col-sm-12 card ">
-                <img src="../assets/images/vector/vector_image_1.png" alt="benefits" style="width: 100%;" class="mb-5">
+                <img src="../assets/images/vector/peexoobiz.png" alt="benefits" style="width: 100%;" class="mb-5">
                 <h4 class="">Find a photographer</h4>
                 <p>Looking to hire a photographer for a personal shoot or to cover an event? We’ve got a wide range of professional photographers you can choose from. All our photographers are verified and are the best at what they do.</p>
               </div>
               <div class="col-lg-4 col-sm-12 card">
-                <img src="../assets/images/vector/vector_image_2.png" alt="benefits" style="width: 100%;" class="mb-5">
+                <img src="../assets/images/vector/peexootouch.png" alt="benefits" style="width: 100%;" class="mb-5">
                 <h4 class="">Get your photos and videos instantly!</h4>
                 <p>Peexoo photographers work with innovative editing tools that take minutes to edit your pictures and videos. Now, you no longer wait for weeks to get your pictures anymore. With Peexoo, your pictures are exceptional, Instagram-worthy and gotten instantly.</p>
               </div>
               <div class="col-lg-4 col-sm-12 card">
-                <img src="../assets/images/vector/vector_image_3.png" alt="benefits" style="width: 100%;" class="mb-5">
+                <img src="../assets/images/vector/peexoomemories.png" alt="benefits" style="width: 100%;" class="mb-5">
                 <h4 class="">Find My Face</h4>
                 <p class="mb-5">The memory of an event lives longer than the event especially when you’ve got amazing pictures to look back at. Whether you photobombed random shoots or posed elegantly for photoshoots, Peexoo finds all the pictures you appeared in and brings them right to you. Simply get started by taking a selfie.</p>
               </div>
             </div>
             <div class="benefits-row benefits-card" >
               <div class="col-lg-4 col-sm-12 card">
-                <img src="../assets/images/vector/vector_image_5.png" alt="benefits" style="width: 100%;" class="mb-5">
+                <img src="../assets/images/vector/availability.png" alt="benefits" style="width: 100%;" class="mb-5">
                 <h4 class="">Awesome sharing experience</h4>
                 <p>Get ready to share exciting experiences with your family and friends. Peexoo Memories makes sharing pictures and videos easy and fun using an image compression AI algorithm to reduce the size of images without affecting its quality. Peexoo Memories is bringing back the bliss of storing and sharing albums digitally.</p>
               </div>
 
               <div class="col-lg-4 col-sm-12 card">
-                <img src="../assets/images/vector/vector_image_4.png" alt="benefits" style="width: 100%;" class="mb-5">
+                <img src="../assets/images/vector/downtime.png" alt="benefits" style="width: 100%;" class="mb-5">
                 <h4 class="">Turning beautiful days into masterpieces</h4>
                 <p>Spark up your images with one touch of Peexoo Touch.  Peexoo Touch instantly transforms a basic looking picture into an art of expression in seconds. Give your picture that pop it deserves.</p>
               </div>
 
               <div class="col-lg-4 col-sm-12 card">
-                <img src="../assets/images/vector/vector_image_6.png" alt="benefits" style="width: 100%;" class="mb-5">
+                <img src="../assets/images/vector/peexoohub.png" alt="benefits" style="width: 100%;" class="mb-5">
                 <h4 class="">A bankable network you can count on</h4>
                 <p class="mb-5">Get the best of Peexoo Hub. Connect with renowned photographers. Become part of a solid network of creative photographers and videographers in Africa. Get inspired by the best photographers in the industry through networking, meetups, workshops and land juicy deals. Networking is always a win-win.</p>
               </div>
