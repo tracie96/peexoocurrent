@@ -35,7 +35,7 @@
 
               </p>
 
-              <button class="btn btn-peexoo btn-p btn-rounded" style="margin-top:-1%;">Explore Photos</p></button>
+              <button class="btn btn-peexoo btn-p btn-rounded" style="margin-top:%;">Find a Photographer</p></button>
             </div>
           </div>
         </div><!-- .row end -->

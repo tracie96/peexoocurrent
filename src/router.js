@@ -121,7 +121,7 @@ let router = new Router({
     {
       path: "/signup",
       name: "signup",
-      component: Signup
+      component: +Signup
     },
     {
       path: "/profile",

@@ -73,20 +73,25 @@ export default {
                 caption: 'Real Estate'
             } 
         ],
+
+// corporate
+// Landscape
+// Architectural
+
            MmoreBookings : [
             {
                 img:'thelexash-59052115-633195593820735-5160150945884080536-n.png',
-                caption: 'Portrait'
+                caption: 'Wedding'
             },
             {
                 img:'afroshots-28153960-1915701772073569-3293591341610565632-n.png',
-                caption: 'Events'
+                caption: 'Babies'
             },{
                 img:'burgerking-58887042-393547187897733-2860389474261161166-n.png',
-                caption: 'Product'
+                caption: 'Family'
             },{
                 img:'gtbank-picture-test-3.png',
-                caption: 'Real Estate'
+                caption: 'Interior'
             } 
         ]
         }

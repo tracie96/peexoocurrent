@@ -1,16 +1,16 @@
 <template>
     <div id="footer-menu" class="footer-menu-3-icons footer-menu-style-1">
             <router-link to="/photographers/search">
-                <img src="../assets/images/photographer.svg" alt="">
-                <span>Find Photographers</span>
+                <img src="../assets/images/photo-camera.svg" alt=""  width="30%" height="30%">
+                <span style="font-size:0.7rem">Find Photographers</span>
             </router-link>
             <router-link to="/">
-                <img src="../assets/images/portrait.svg" alt="">
-                <span>Find my Photos</span>
+                <img src="../assets/images/search-people-symbol.svg" alt="">
+                <span style="font-size:0.7rem">Find my Photos</span>
             </router-link>
             <router-link to="/photos/explore">
-                <img src="../assets/images/photo-copy.svg" alt="">
-                <span>Explore Photos</span>
+                <img src="../assets/images/picture.svg" alt="" width="30%" height="30%">
+                <span style="font-size:0.7rem">Explore Photos</span>
             </router-link>  
             
             <div class="clear"></div>

@@ -22,7 +22,7 @@
                          Focus your lens, grow your network and get paid. Leave the boring work of finding, retaining and growing your customer base to us.
                         </p>
 
-                        <button class="btn btn-peexoo btn-p btn-rounded ">the Community</button>
+                        <button class="btn btn-peexoo btn-p btn-rounded ">the Community</p></button>
                     </div>
                 </div>
             </div><!-- .row end -->

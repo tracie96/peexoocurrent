@@ -56,23 +56,10 @@
                                 </v-menu>
                             </v-flex>
                         </v-layout>
-                        <div class="advert">
-                            <img src="../assets/images/app-screen-mockup.png" alt="peexoo apps">
-                            <p class="text-white">
-                                DON’T MISS OUT!
-                                DOWNLOAD OUR MOBILE APP
-                                FOR A FULL MOBILE
-                                EXPERIENCE
-                            </p>
+                        <div class="adverts">
+                        
                             <div class="pad-top-30 text-center">
-                                <div>
-                                    <img style="width:70%" src="../assets/images/ww_app-store.png"
-                                        alt="download from app store">
-                                </div>
-                                <div>
-                                    <img style="width:78%" src="../assets/images/google-play.png"
-                                        alt="download from google store">
-                                </div>
+                         
                             </div>
                         </div>
                     </div>

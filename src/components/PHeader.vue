@@ -16,9 +16,7 @@
                             <li class="a-l">
                                 <router-link to="/photographers">I am a Photographer</router-link>
                             </li>
-                            <li class="a-l">
-                                <router-link to="/photos/explore">Explore Photos</router-link>
-                            </li>
+                       
                             <li class="a-l">
                                 <router-link to="/photographers/search">Find a Photographer</router-link>
                             </li>

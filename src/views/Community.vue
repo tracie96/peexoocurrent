@@ -6,21 +6,23 @@
             <!-- Grid column -->
             <div class="col-md-3 mr-10">
                 <div class="">
-                    <img style="width:100%" height="200%" class="img-fluid" src="../assets/images/learn.jpg" alt="Card image cap">
+                    <img style="width:100%" height="300%" class="img-fluid" src="../assets/images/community/_POP1044.jpg" alt="Card image cap">
+                    <img style="width:100%" height="300%" class="img-fluid" src="../assets/images/community/_POP6960.jpg" alt="Card image cap">
+
                 </div>
             </div>
             <div class="col-md-3 mr-10">
                 <div class="">
-                    <img style="width:100%" class="img-fluid mb-6" src="../assets/images/middle-top.png"
+                    <img style="width:100%" class="img-fluid mb-6" src="../assets/images/community/_POP0291.jpg"
                         alt="Card image cap">
-                    <img style="width:100%" class="img-fluid" src="../assets/images/middle-bottom.png"
+                    <img style="width:100%" class="img-fluid" src="../assets/images/community/_POP0662.jpg"
                         alt="Card image cap">
                 </div>
 
             </div>
             <div class="col-md-5 mr-10 ">
                 <div class="">
-                    <img class="img-fluid mb-6" src="../assets/images/right-top.png" alt="Card image cap"
+                    <img class="img-fluid mb-6" src="../assets/images/community/_POP4167.jpg" alt="Card image cap"
                         style="object-fit:contain;width:100%">
                     <img class="img-fluid" src="../assets/images/right-bottom.png" alt="Card image cap"
                         style="object-fit:contain;width:100%">
@@ -76,7 +78,7 @@
 Get inspired by working with the greatest talents in the world of photography and build a bankable network you can count on with Peexoo HUB.                                    </p>
                                 </div>
                                 <div class="col-md-8">
-                                    <img src="../assets/images/sunmisola-olorunnisola-43913798-184315472451375-8597409187659397510-n.png"
+                                    <img src="../assets/images/meet.jpg"
                                         alt="">
                                 </div>
                             </div>
@@ -85,14 +87,14 @@ Get inspired by working with the greatest talents in the world of photography an
                             <div class="row">
                                 <div class="col-md-4">
                                     <p class="big-p">
-                                        Show case
+                                        Grow
                                     </p>
                                     <p class="small-p">
 Display your work to an audience waiting to appreciate your creativity. Get paid and land juicy opportunities.
                                     </p>
                                 </div>
                                 <div class="col-md-8">
-                                    <img src="../assets/images/grid-image.png" alt="">
+                                    <img src="../assets/images/grow.jpg" alt="">
                                 </div>
                             </div>
                         </div>
@@ -106,7 +108,7 @@ Display your work to an audience waiting to appreciate your creativity. Get paid
 Our fully automated AI, ultra-innovative tools are available round the clock to solve the problem of long post-production time, to creating high quality images in seconds. Peexoo gives your photography the boost it deserves.                                    </p>
                                 </div>
                                 <div class="col-md-8">
-                                    <img src="../assets/images/support-image-copy.png" alt="">
+                                    <img src="../assets/images/support-image-copy.jpg" alt="">
                                 </div>
                             </div>
                         </div>
@@ -121,7 +123,7 @@ Our fully automated AI, ultra-innovative tools are available round the clock to 
                                     </p>
                                 </div>
                                 <div class="col-md-8">
-                                    <img src="../assets/images/learn-image-copy.png" alt="">
+                                    <img src="../assets/images/community/_POP6960.jpg" alt="">
                                 </div>
                             </div>
                         </div>
@@ -319,27 +321,21 @@ Our fully automated AI, ultra-innovative tools are available round the clock to 
         <PhotoTestimony />
         <section class="xs-section-padding" style="padding-bottom:80px">
             <div class="container">
-                <div class="mt-5 row pexo-bg">
+                <div class="mt-5 row pexo-bgs">
                     <div class="col-md-6 pexo-pad">
                         <p>
-                            DON’T MISS OUT!
-                            DOWNLOAD OUR MOBILE APP
-                            FOR A FULL MOBILE
-                            EXPERIENCE
+                        
                         </p>
                         <div class="pad-top-30">
                             <span>
-                                <img style="width:40%" src="../assets/images/ww_app-store.png"
-                                    alt="download from app store">
+                         
                             </span>
                             <span>
-                                <img style="width:45%" src="../assets/images/google-play.png"
-                                    alt="download from google store">
+                            
                             </span>
                         </div>
                     </div>
                     <div class="col-md-6 pexo-pad">
-                        <img src="../assets/images/app-screen-mockup.png" alt="">
                     </div>
                 </div>
             </div>
@@ -444,7 +440,7 @@ Our fully automated AI, ultra-innovative tools are available round the clock to 
     .big-p {
         padding-bottom: 25px;
         font-family: 'Montserrat';
-        font-size: 85px;
+        font-size: 70px;
         font-weight: bold;
         font-style: normal;
         font-stretch: normal;
@@ -454,7 +450,7 @@ Our fully automated AI, ultra-innovative tools are available round the clock to 
     }
 
     .small-p {
-        font-size: 43px;
+        font-size: 20px;
         font-weight: normal;
         font-style: normal;
         font-stretch: normal;
